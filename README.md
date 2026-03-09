@@ -55,7 +55,7 @@ print("File received successfully.")
 conn.close()
 server.close()
 ```
-##client
+###client
 ```
 import socket
 import os
@@ -79,10 +79,10 @@ print("File sent successfully.")
 client.close()
 ```
 ## OUPUT
-##client
+###client
 <img width="837" height="469" alt="image" src="https://github.com/user-attachments/assets/c13a9aba-27d5-41c1-93d9-69f465d31212" />
 
-##server 
+###server 
 <img width="839" height="469" alt="image" src="https://github.com/user-attachments/assets/91d496c0-7513-495d-b001-e21bb96c036a" />
 
 ## RESULT
